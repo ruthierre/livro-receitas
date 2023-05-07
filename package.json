@@ -4,6 +4,7 @@
   "description": "Projeto acadêmico,Instituto federal de sergipe, para aprendizado dos fundamentos da Programação Orientada a Objetos, utilizando nodejs, typescript , javascript.",
   "main": "app.js",
   "scripts": {
+    "start": "node dist/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/ruthierre/projetoPooTypescript/issues"
   },
-  "homepage": "https://github.com/ruthierre/projetoPooTypescript#readme"
+  "homepage": "https://github.com/ruthierre/projetoPooTypescript#readme",
+  "devDependencies": {
+    "@types/node": "^20.1.0",
+    "sucrase": "^3.32.0",
+    "typescript": "^5.0.4"
+  }
 }

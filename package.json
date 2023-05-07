@@ -1,0 +1,25 @@
+{
+  "name": "poo-typescript",
+  "version": "1.0.0",
+  "description": "Projeto acadêmico,Instituto federal de sergipe, para aprendizado dos fundamentos da Programação Orientada a Objetos, utilizando nodejs, typescript , javascript.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruthierre/projetoPooTypescript.git"
+  },
+  "keywords": [
+    "POO",
+    "Typescript",
+    "Javascript",
+    "NodeJs"
+  ],
+  "author": "Walber Ruthierre da Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruthierre/projetoPooTypescript/issues"
+  },
+  "homepage": "https://github.com/ruthierre/projetoPooTypescript#readme"
+}

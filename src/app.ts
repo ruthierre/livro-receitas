@@ -21,4 +21,4 @@ let recuperarEndereco = function(posicao: number): string {
 }
 
 console.log(exibirNomeCompleto());
-console.log(recuperarEndereco(0));
+console.log(recuperarEndereco(1));
